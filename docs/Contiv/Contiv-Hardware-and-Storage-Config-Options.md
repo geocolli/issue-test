@@ -18,7 +18,7 @@ Numbers in the table below represent nodes. Please note any that we already have
 
 
 
-Blank | Contiv | Vcenter (future - next quarter)
+Env Type | Contiv | Vcenter (future - next quarter)
 --- | --- | ---
 | Development env | <ul><li>5 - Additional servers in proxprod1 - <span class="confluence-jim-macro jira-issue" data-jira-key="DEVINFRA-1056">[![](https://metacloud.jira.com/secure/viewavatar?size=xsmall&avatarId=10800&avatarType=issuetype)DEVINFRA-1056](https://metacloud.jira.com/browse/DEVINFRA-1056) - Contiv development - nodes for proxmox (Reserved for Contiv team)<li>3 Additional servers for ACI mode (with Intel 710 cards) - <span class="confluence-jim-macro jira-issue" data-jira-key="DEVINFRA-1057">[![](https://metacloud.jira.com/secure/viewavatar?size=xsmall&avatarId=10800&avatarType=issuetype)DEVINFRA-1057](https://metacloud.jira.com/browse/DEVINFRA-1057) - <span class="summary">Contiv - additional machines connected for ACI
 | CI/Integration env | 2 - specific for CI (with Intel 710 cards) <span class="confluence-jim-macro jira-issue" data-jira-key="DEVINFRA-1055">[![](https://metacloud.jira.com/secure/viewavatar?size=xsmall&avatarId=10800&avatarType=issuetype)DEVINFRA-1055](https://metacloud.jira.com/browse/DEVINFRA-1055) - Contiv CI - 2 additional C220s 
